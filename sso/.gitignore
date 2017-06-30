@@ -1,0 +1,9 @@
+
+## Intellij files
+*.iws
+*.ipr
+*.iml
+.idea
+
+target
+dependency-reduced-pom.xml
